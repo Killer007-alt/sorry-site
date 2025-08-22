@@ -213,6 +213,7 @@ export default function GiftPage() {
                       className="text-xl text-pink-200"
                     >
                       You mean everything to me💕✨
+                      I Love You Soo Much Dimpal
                     </motion.p>
                   </motion.div>
                 )}
